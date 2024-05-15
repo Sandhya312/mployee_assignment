@@ -1,0 +1,17 @@
+.job-heading{
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.multi-cards{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 23px;
+   
+}
+.border-job{
+    margin-top: 32px;
+    border: 1px solid #D4D9E1;
+    border-radius: 12px;
+}
